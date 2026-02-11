@@ -6,7 +6,7 @@ Currently building hands-on experience through real projects and continuous lear
 ---
 ## 📊GitHub Stats
 <img
-src="https://github-readme-stats.vercel.app/api?username=dusan-qa2025&show_icons=true&theme=dark&cache_seconds=1800" />
+src="https://github-readme-stats.vercel.app/api?username=dusan-qa2025&show_icons=true&theme=dark&cache_seconds=1800"/>
 
 ### 🛠️ QA Skills
 - Manual Testing
