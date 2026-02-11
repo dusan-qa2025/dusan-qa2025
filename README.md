@@ -5,7 +5,9 @@ Currently building hands-on experience through real projects and continuous lear
 
 ---
 ## 📊GitHub Stats
-![Dusan's GitHub Stats)](https://github-readme-stats.vercel.app/api?username=dusan-qa2025&show_icons=true&theme=dark)
+
+![Dusan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusan-qa2025&show_icons=true&theme=dark)
+
 ### 🛠️ QA Skills
 - Manual Testing
 - Test Case Design & Execution
