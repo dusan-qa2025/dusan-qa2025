@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi, I'm Dusan - Junior QA Tester
 
-<!--
-**dusan-qa2025/dusan-qa2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Tester with a strong interest in manual and automated testing.
+Currently building hands-on experience through real projects and continuous learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ QA Skills
+- Manual Testing
+- Test Case Design & Execution
+- Bug Reporting (JIRA)
+- API Testing
+- Selenium WebDriver (Python, Java - basics)
+- Git & GitHub
+- Basic SQL
+
+---
+### 📂Featured Projects
+- **Selenium Testing (POM)** - automated UI testing using Page Object Model
+- **API Tests** - REST API testing with assertions
+- **Software Testing (Python & Java)** - testing fundamentals and practice tasks
+
+👉Check my repositories below👇
+
+---
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dusan-qa-testing/)
+
+              
