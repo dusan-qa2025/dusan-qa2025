@@ -4,7 +4,8 @@ Aspiring Software Tester with a strong interest in manual and automated testing.
 Currently building hands-on experience through real projects and continuous learning.
 
 ---
-
+## 📊GitHub Stats
+![Dusan's GitHub Stats)](https://github-readme-stats.vercel.app/api?username=dusan-qa2025&show_icons=true&theme=dark)
 ### 🛠️ QA Skills
 - Manual Testing
 - Test Case Design & Execution
