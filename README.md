@@ -7,6 +7,7 @@ Currently building hands-on experience through real projects and continuous lear
 ## 📊GitHub Stats
 
 ![Dusan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusan-qa2025&show_icons=true&theme=dark)
+> GitHub stats may temporarily be unavailable due to API limits.
 
 ### 🛠️ QA Skills
 - Manual Testing
