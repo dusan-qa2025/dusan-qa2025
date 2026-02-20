@@ -14,12 +14,17 @@ Currently building hands-on experience through real projects and continuous lear
 - Selenium WebDriver (Python, Java - basics)
 - Git & GitHub
 - Basic SQL
+- Playwright (JavaScript)
+- End-to-End (e2e) Test Automation
+- AI-assisted Test Automation
+- Page Object Model (POM)
 
 ---
 ### 📂Featured Projects
 - **Selenium Testing (POM)** - automated UI testing using Page Object Model
 - **API Tests** - REST API testing with assertions
 - **Software Testing (Python & Java)** - testing fundamentals and practice tasks
+- **AI-Playwright** - End-to-End UI test automation using Playwright with AI-assisted element interaction (ZeroStep)
 
 👉Check my repositories below👇
 
