@@ -16,7 +16,7 @@ Currently building hands-on experience through real projects and continuous lear
 - Basic SQL
 - Playwright (JavaScript)
 - End-to-End (e2e) Test Automation
-- AI-assisted Test Automation
+- AI-assisted Test Automation (ZeroStep)
 - Page Object Model (POM)
 
 ---
