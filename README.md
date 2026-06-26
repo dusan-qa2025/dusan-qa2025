@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Dusan - Junior QA Tester
+## 👋 Hi, I'm Dusan - Junior QA Engineer
 
 Aspiring Software Tester with a strong interest in manual and automated testing.
 Currently building hands-on experience through real projects and continuous learning.
