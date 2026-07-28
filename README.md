@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Dusan - Junior QA Engineer
 
-Aspiring Software Tester with a strong interest in manual and automated testing.
-Currently building hands-on experience through real projects and continuous learning.
+Junior QA Engineer passionate about delivering high-quality software through effective testing and continuous improvement. Motivated, detail-oriented, and committed to expanding my expertise in quality assurance and test automation. I enjoy solving complex problems, learning new technologies, and contributing to reliable software solutions. I actively develop and publish QA projects on GitHub to strengthen my practical skills and demonstrate my hands-on experience.
 
 ---
 
